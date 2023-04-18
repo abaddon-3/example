@@ -1,15 +1,21 @@
 header {
     height: 100px;
-    background-color: black;
+    display: flex;
+    align-items: center;
+    background-color: rgb(21, 117, 21);
 }
 
 footer{
     height: 100px;
-    background-color: black;
+    background-color: rgb(21, 117, 21);
 }
 
 body {
     margin: 0px;
+}
+
+.top{
+    
 }
 
 .container{
