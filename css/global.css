@@ -14,6 +14,11 @@ body {
     margin: 0px;
 }
 
+.resize{
+    width: 200px;
+    height: auto;
+}
+
 .top{
     
 }
