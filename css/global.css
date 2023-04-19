@@ -19,8 +19,8 @@ body {
     height: auto;
 }
 
-.top{
-    
+.right{
+    align-items: flex-end;
 }
 
 .container{
