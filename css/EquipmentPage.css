@@ -1,0 +1,33 @@
+
+.imagecontainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 4%;
+}
+  
+.item {
+    flex-basis: calc(33.33% - 10px);
+    margin-bottom: 20px;
+}
+  
+.item img {
+    max-width: 95%;
+    max-height: 95%;
+    border-radius: 20px;
+}
+
+body{
+    background-color: rgba(46, 97, 30, 0.63);
+    font-family: 'Exo 2', sans-serif;    
+
+}
+
+
+.item p {
+    font-size: 120%;
+    text-align: center;
+    margin: .25%;   
+    color: rgba(255, 255, 255, 0.63);
+    
+}
