@@ -26,16 +26,10 @@ body{
     float: left;
 }
 
-.container{
+.containerLocal{
     width: auto;
     margin: 0 auto;
     background-color: rgba(46, 97, 30, 0.63);
-}
-
-.header{
-    width: auto;
-    margin: 0 auto;
-    background-color: rgb(21, 117, 21);
 }
 
 .row{
