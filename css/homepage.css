@@ -7,7 +7,9 @@ h3{
     font-family: 'Exo 2', sans-serif;
 }
 
-body {
+body{
+    background-color: rgba(46, 97, 30, 0.63);
+    font-family: 'Exo 2', sans-serif;    
     margin: 0px;
 }
 
@@ -25,6 +27,12 @@ body {
 }
 
 .container{
+    width: auto;
+    margin: 0 auto;
+    background-color: rgba(46, 97, 30, 0.63);
+}
+
+.header{
     width: auto;
     margin: 0 auto;
     background-color: rgb(21, 117, 21);
