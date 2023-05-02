@@ -33,6 +33,7 @@ h4 {
 
 }
 .title p{
+    padding-top: 10px;
     margin: .5em;
     font-family: 'Exo 2', sans-serif;
     font-size: 1.6em;

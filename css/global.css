@@ -9,6 +9,14 @@ footer{
     
 }
 
+.nav-link:active{
+    color: rgba(255, 255, 255, 0.63);
+}
+
+.nav-link:visited{
+    color: rgba(255, 255, 255, 0.327);
+}
+
 h1 {
     font-size: 300%;
     color: rgba(255, 255, 255, 0.63);
@@ -53,6 +61,32 @@ body {
 
 .left{
     float: left;
+}
+
+.navigation-row{
+    display: flex;
+    max-height: 0%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.navigation-col{
+    width: 33%;
+    max-height: 0%;
+}
+
+.nav-container{
+    width: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 50px;
+    
+}
+
+.hvr-border-fade{
+    padding: 1px 25px;
+    background-color: rgb(74, 111, 74);
 }
 
 .container{
